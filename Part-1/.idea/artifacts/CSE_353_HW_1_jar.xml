@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSE-353-HW-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSE_353_HW_1_jar</output-path>
+    <root id="archive" name="CSE-353-HW-1.jar">
+      <element id="module-output" name="CSE-353-HW-1" />
+    </root>
+  </artifact>
+</component>
